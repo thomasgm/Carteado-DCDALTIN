@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkPad\\source\\repos\\Carteado-DCDALTIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62AC445C-A37C-7686-66A6-CB8857AAD844}|Carteado\\Carteado.csproj|c:\\users\\thinkpad\\source\\repos\\carteado-dcdaltin\\carteado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AC445C-A37C-7686-66A6-CB8857AAD844}|Carteado\\Carteado.csproj|solutionrelative:carteado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AC445C-A37C-7686-66A6-CB8857AAD844}|Carteado\\Carteado.csproj|c:\\users\\thinkpad\\source\\repos\\carteado-dcdaltin\\carteado\\modelos\\baralho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AC445C-A37C-7686-66A6-CB8857AAD844}|Carteado\\Carteado.csproj|solutionrelative:carteado\\modelos\\baralho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AC445C-A37C-7686-66A6-CB8857AAD844}|Carteado\\Carteado.csproj|c:\\users\\thinkpad\\source\\repos\\carteado-dcdaltin\\carteado\\modelos\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AC445C-A37C-7686-66A6-CB8857AAD844}|Carteado\\Carteado.csproj|solutionrelative:carteado\\modelos\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AC445C-A37C-7686-66A6-CB8857AAD844}|Carteado\\Carteado.csproj|c:\\users\\thinkpad\\source\\repos\\carteado-dcdaltin\\carteado\\modelos\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AC445C-A37C-7686-66A6-CB8857AAD844}|Carteado\\Carteado.csproj|solutionrelative:carteado\\modelos\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Baralho.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\Carteado-DCDALTIN\\Carteado\\Modelos\\Baralho.cs",
+              "RelativeDocumentMoniker": "Carteado\\Modelos\\Baralho.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\Carteado-DCDALTIN\\Carteado\\Modelos\\Baralho.cs",
+              "RelativeToolTip": "Carteado\\Modelos\\Baralho.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:14:50.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\Carteado-DCDALTIN\\Carteado\\Modelos\\Carta.cs",
+              "RelativeDocumentMoniker": "Carteado\\Modelos\\Carta.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\Carteado-DCDALTIN\\Carteado\\Modelos\\Carta.cs",
+              "RelativeToolTip": "Carteado\\Modelos\\Carta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:09:43.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\Carteado-DCDALTIN\\Carteado\\Modelos\\Jogo.cs",
+              "RelativeDocumentMoniker": "Carteado\\Modelos\\Jogo.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\Carteado-DCDALTIN\\Carteado\\Modelos\\Jogo.cs",
+              "RelativeToolTip": "Carteado\\Modelos\\Jogo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:07:04.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\Carteado-DCDALTIN\\Carteado\\Program.cs",
+              "RelativeDocumentMoniker": "Carteado\\Program.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\Carteado-DCDALTIN\\Carteado\\Program.cs",
+              "RelativeToolTip": "Carteado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:06:02.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
