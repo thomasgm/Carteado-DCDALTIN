@@ -1,0 +1,3 @@
+namespace JogoDeCartas.Core.GameLogic
+{
+}

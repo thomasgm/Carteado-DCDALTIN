@@ -5,8 +5,8 @@ namespace JogoDeCartas.Core.GameLogic
 {
     public class GerenciadorDeJogo
     {
-        private List<Jogador> jogadores;
-        private Baralho baralho;
+        protected List<Jogador> jogadores;
+        protected Baralho baralho;
         private int jogadorAtual;
 
         public GerenciadorDeJogo()
@@ -20,7 +20,7 @@ namespace JogoDeCartas.Core.GameLogic
             jogadores.Add(new Jogador(nome));
         }
 
-        public void IniciarRodada()
+        public virtual void IniciarRodada()
         {
             DistribuirCartasIniciais();
 
@@ -55,7 +55,7 @@ namespace JogoDeCartas.Core.GameLogic
             Console.WriteLine("=============");
         }
 
-        private void RealizarTurnoDoJogador(int indiceJogador)
+        public virtual void RealizarTurnoDoJogador(int indiceJogador)
         {
             var jogadorAtual = jogadores[indiceJogador];
 
@@ -70,7 +70,7 @@ namespace JogoDeCartas.Core.GameLogic
             jogadorAtual = (jogadorAtual + 1) % jogadores.Count;
         }
 
-        private void JogarCarta(Jogador jogador)
+        protected void JogarCarta(Jogador jogador)
         {
             Console.WriteLine("\nEscolha uma carta para jogar:");
             for (int i = 0; i < jogador.Mao.Count; i++)
@@ -104,9 +104,6 @@ namespace JogoDeCartas.Core.GameLogic
                 case "K":
                 case "Q":
                 case "J":
-                    pontos = 10;
-                    break;
-                case "10":
                     pontos = 10;
                     break;
                 default:
@@ -160,7 +157,7 @@ namespace JogoDeCartas.Core.GameLogic
             }
         }
 
-        private bool VerificarFimDaRodada()
+        public virtual bool VerificarFimDaRodada()
         {
             // Rodada termina quando alguém atingir 50 pontos ou ficar negativo
             foreach (var jogador in jogadores)

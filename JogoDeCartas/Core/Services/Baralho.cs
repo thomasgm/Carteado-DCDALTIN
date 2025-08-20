@@ -24,6 +24,7 @@ namespace JogoDeCartas.Core.Services
                     cartas.Add(new Carta((Naipe)naipe, valor));
                 }
             }
+            Embaralhar();
         }
 
         public int CartasRestantes => cartas.Count;
